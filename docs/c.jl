@@ -1,3 +1,4 @@
-PAGES = ["Part1" => "index.md",
-            "Part2" => ["f1/file1.md", "f1/file2.md"],
-			hide("Part3" => "f2/file1.md")]
+PAGES = ["Part1" => "headings/f1.md",
+        "Part2" => ["headings/f2.md", "headings/f3.md"],
+        "headings/f4.md"
+        ]
